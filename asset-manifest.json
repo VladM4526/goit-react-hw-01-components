@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-01-components/static/css/main.2a03eca6.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.b9448b44.js",
+    "static/media/Friend-list-1-edited.png": "/goit-react-hw-01-components/static/media/Friend-list-1-edited.6e3e8f94fb2cabf44f11.png",
+    "static/media/Profile-img-edited.png": "/goit-react-hw-01-components/static/media/Profile-img-edited.058ad90ddf0c37bbdb4f.png",
+    "static/media/Friend-list-5-edited.png": "/goit-react-hw-01-components/static/media/Friend-list-5-edited.b313d5d2aac612a705c6.png",
+    "static/media/Friend-list-4-edited.png": "/goit-react-hw-01-components/static/media/Friend-list-4-edited.a91616e25f43f2457ddc.png",
+    "static/media/Friend-list-2-edited.png": "/goit-react-hw-01-components/static/media/Friend-list-2-edited.d24901490fb6e9feca43.png",
+    "static/media/Friend-list-3-edited.png": "/goit-react-hw-01-components/static/media/Friend-list-3-edited.1f72b67c29e312e8f16f.png",
     "index.html": "/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.2a03eca6.css.map": "/goit-react-hw-01-components/static/css/main.2a03eca6.css.map",
+    "main.b9448b44.js.map": "/goit-react-hw-01-components/static/js/main.b9448b44.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.2a03eca6.css",
+    "static/js/main.b9448b44.js"
   ]
 }
