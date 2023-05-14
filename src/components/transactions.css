@@ -1,0 +1,26 @@
+.transaction-history-table-title-tr {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+
+.transaction-history-table-title-tr-item {
+    padding-left: 20px;
+}
+
+.transaction-history-table-title-tr-item:first-child {
+    padding-left: 0px;
+}
+
+.transaction-history-table-text-values {
+    display: flex;
+    text-align: center;
+}
+
+.transaction-history-table-text-values-item {
+    padding-left: 20px;
+}
+
+.transaction-history-table-text-values-item:first-child {
+    padding-left: 0px;
+}
